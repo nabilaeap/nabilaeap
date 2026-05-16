@@ -5,20 +5,23 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: nabilaeap
+          github_user_name: nabiliaep
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: push snake
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
