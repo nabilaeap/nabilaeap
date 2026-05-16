@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## My Contributions
 
-![snake gif](https://github.com/nabiliaep/nabiliaep/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/nabilaeap/nabilaeap/refs/heads/output/github-contribution-grid-snake.svg)
