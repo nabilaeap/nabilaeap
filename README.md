@@ -58,17 +58,6 @@ Currently improving understanding in:
 
 ---
 
-## Featured Projects
-
-- Geographically Weighted Regression Analysis
-- FAQ E-Wallet NLP Analysis
-- Exploratory Data Analysis Projects
-- Statistical Modeling Coursework
-
-(Projects are continuously updated as part of my learning process.)
-
----
-
 ## GitHub Contributions
 
 <picture>
