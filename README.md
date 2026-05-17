@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Putri Alii</h1>
+<h1 align="center">Hi, I'm Nabila Putri Alifiani </h1>
 
 <p align="center">
 Statistics Student | Data Science Learner | Research-Oriented Thinker
@@ -89,20 +89,3 @@ Currently improving understanding in:
 </picture>
 
 ---
-
-## My Contributions
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nabilaeap/nabilaeap/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nabilaeap/nabilaeap/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/nabilaeap/nabilaeap/output/github-contribution-grid-snake.svg"
-  />
-</picture>
