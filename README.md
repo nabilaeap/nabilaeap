@@ -9,9 +9,7 @@ Statistics Student
 ## About Me
 
 I am a Statistics undergraduate student interested in data analysis, statistical modeling, and data science exploration.
-
 Currently building experience through independent projects, coursework, and research-based analysis.
-
 I enjoy transforming raw data into insights using statistical reasoning rather than relying only on automation.
 
 ---
