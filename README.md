@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nabila Putri Alifiani </h1>
 
 <p align="center">
-Statistics Student | Data Science Learner | Research-Oriented Thinker
+Statistics Student
 </p>
 
 ---
